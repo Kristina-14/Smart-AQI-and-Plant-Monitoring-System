@@ -1,0 +1,21 @@
+{
+  "name": "smart-aqi-and-plant-monitor-final",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.js",
+  "scripts": {
+    "server": "nodemon src/app.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "handlebars": "^4.1.1",
+    "hbs": "^4.1.1",
+    "mongoose": "^6.0.13"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.4"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
